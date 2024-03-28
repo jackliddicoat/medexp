@@ -1,5 +1,5 @@
 # medexp
-State-Level analysis of medicaid expansion's effects on infant mortality, 2007-2021
+State-Level analysis of Medicaid expansion's effects on infant mortality, 2007-2021
 
 IMR Data is from CDC WONDER Database
 
